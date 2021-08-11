@@ -1,4 +1,5 @@
 """
+
 from photo_wct.py of https://github.com/NVIDIA/FastPhotoStyle
 Copyright (C) 2018 NVIDIA Corporation.
 Licensed under the CC BY-NC-SA 4.0
